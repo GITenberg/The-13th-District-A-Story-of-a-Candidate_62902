@@ -1,6 +1,9 @@
 _repo: The-13th-District-A-Story-of-a-Candidate_62902
 _version: 0.1.0
 alternative_title: 'The Thirteenth District: A Story of a Candidate'
+covers:
+- cover_type: archival
+  image_path: 62902-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitlock, Brand
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37861
     wikipedia: https://en.wikipedia.org/wiki/Brand_Whitlock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62902#The-13th-District-A-Story-of-a-Candidate
 gutenberg_issued: '2020-08-11'
 gutenberg_type: Text
 identifiers:
